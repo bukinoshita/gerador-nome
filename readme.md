@@ -1,6 +1,6 @@
 # gerador-nome [![Build Status](https://travis-ci.org/bukinoshita/gerador-nome.svg?branch=master)](https://travis-ci.org/bukinoshita/gerador-nome)
 
-> Gerador brasileiro de Estado Civil
+> Gerador brasileiro de Nome
 
 ## Install
 
