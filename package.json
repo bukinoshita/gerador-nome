@@ -34,7 +34,7 @@
     "@sindresorhus/tsconfig": "0.7.0",
     "@types/jest": "24.9.0",
     "@types/node": "13.1.8",
-    "jest": "24.9.0",
+    "jest": "25.1.0",
     "ts-jest": "24.3.0",
     "typescript": "3.7.5"
   }
