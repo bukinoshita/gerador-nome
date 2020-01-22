@@ -1,0 +1,21 @@
+export const I: string[] = [
+  'Iago',
+  'Ianis',
+  'Ícaro',
+  'Ike',
+  'Inácio',
+  'Irineu',
+  'Isaac',
+  'Isaías',
+  'Isidoro',
+  'Isidro',
+  'Ismael',
+  'Israel',
+  'Ítalo',
+  'Itamar',
+  'Ivaldo',
+  'Ivan',
+  'Ivandro',
+  'Ivanildo',
+  'Ivo'
+]

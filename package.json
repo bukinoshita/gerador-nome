@@ -1,0 +1,41 @@
+{
+  "name": "gerador-nome",
+  "version": "0.0.0",
+  "description": "Gerador brasileiro de Nomes",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": "bukinoshita/gerador-nome",
+  "author": "bukinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "gerador",
+    "brasileiro",
+    "nome",
+    "masculino",
+    "feminino",
+    "brasil",
+    "dados"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "yarn build",
+    "test": "jest --config=jest.config.json"
+  },
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  },
+  "devDependencies": {
+    "@sindresorhus/tsconfig": "0.7.0",
+    "@types/jest": "24.9.0",
+    "@types/node": "13.1.8",
+    "jest": "24.9.0",
+    "ts-jest": "24.3.0",
+    "typescript": "3.7.5"
+  }
+}
