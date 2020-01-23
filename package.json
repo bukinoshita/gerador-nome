@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "@sindresorhus/tsconfig": "0.7.0",
-    "@types/jest": "24.9.0",
+    "@types/jest": "24.9.1",
     "@types/node": "13.5.0",
     "jest": "25.1.0",
     "ts-jest": "24.3.0",
