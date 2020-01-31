@@ -43,6 +43,8 @@ Gera nome aleatório masculino.
 
 Returns a `string`.
 
+## Related
+
 - [gerador](https://github.com/bukinoshita/gerador) — Gerador de dados brasileiros
 - [gerador-estado-civil](https://github.com/bukinoshita/gerador-estado-civil) — Gerador brasileiro de Estado Civil
 - [gerador-sexo](https://github.com/bukinoshita/gerador-sexo) — Gerador brasileiro de Sexo da pessoa
